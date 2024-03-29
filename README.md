@@ -1,0 +1,1 @@
+Este repositório foi criado com intuito de documentar minha evolução no estudo de JavaScritp. Ele conterá os exercícios referentes ao curso JavaScript do básico ao avançado (c/ Node.js e projetos) do Prof. Matheus Battisti. O curso pode ser adquirido na plataforma de cursos Udemy.
